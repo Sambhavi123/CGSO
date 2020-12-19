@@ -1,2 +1,1 @@
-# CGSO
-Nice game .
+# GCSO-CompleteSolution
